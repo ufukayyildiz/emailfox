@@ -63,7 +63,7 @@
     }
   },
   "dependencies": {
-    "@vitejs/plugin-react": "6.0.2",
+    "@vitejs/plugin-react": "6.0.3",
     "fflate": "^0.8.3",
     "lucide-react": "1.22.0",
     "postal-mime": "2.7.5",
